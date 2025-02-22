@@ -61,8 +61,10 @@ This project is licensed under the MIT License. See LICENSE for details.
 ## 📞 Contact
 For support or inquiries, reach out via:
 
-- 🌐 Website: nexflow.pegioncloud.com
+- 🌐 Website: [nexflow.pegioncloud.com](https://nexflow.pegioncloud.com)
 - 📧 Email: mohdsaqib.rx@gmail.com
-- 🐙 GitHub: @md-saqib06
+- 🐙 GitHub: [@md-saqib06](https://github.com/md-saqib06/)
+
+### Cosider giving a ⭐
 
 ### Made with ❤️ by the NexFlow Team 🚀
